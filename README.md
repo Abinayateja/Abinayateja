@@ -35,14 +35,23 @@ These days I’m focused on:
 
 ---
 
-Tech I work with:
+## 🛠 Tech I Work With
 
-Frontend: HTML, CSS, Bootstrap, JavaScript, React.js, Flexbox  
-Backend: Python, Node.js, Express  
-Database: SQLite  
-Programming: C, C++, Java  
-Core CS: Data Structures & Algorithms  
-Tools: Git, DevOps basics
+Frontend: HTML, CSS, JavaScript, React.js, Bootstrap, Responsive Design
+
+Mobile Development: Flutter, Dart
+
+Backend: Python, Node.js, Express.js, REST APIs
+
+AI / ML: LLM API Integration, Prompt Engineering, Computer Vision (YOLOv8), OpenCV
+
+Database: SQLite, Mongodb
+
+Programming: C, C++, Java, Python
+
+Core CS: Data Structures & Algorithms
+
+Tools: Git, GitHub, API Integration, DevOps Basics
 
 ---
 

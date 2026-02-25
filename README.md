@@ -15,21 +15,23 @@ These days I’m focused on:
 
 ---
 
-Some stuff I built:
+## Some stuff I built:
 
-• GitHub Profile Visualizer — A dynamic platform to explore GitHub profiles and repository analytics using React, GitHub APIs and data visualization.
+• GitHub Profile Visualizer — Explore GitHub profiles and repository analytics with interactive data visualization.
 
-• Nxt Trendz — E-commerce platform inspired by Amazon/Flipkart with authentication, product pages, routing and REST API integration.
+• Nxt Trendz — Full-stack e-commerce platform with authentication, product pages and API integration.
 
-• AI Mood Based Song Player (Flutter) — Mobile application that recommends music based on user mood using AI-driven logic and interactive UI.
+• AI Mood Based Music Player — AI-powered Flutter app that detects user mood and adapts music experience.
 
-• Digital Krishi Officer — Voice-first farmer assistant chatbot designed to help farmers through conversational interaction and structured responses.
+• Digital Krishi Officer — Voice-first AI assistant designed to help farmers through conversational interaction.
 
-• AI Wiki Quiz Generator — System that processes large textual data and generates quizzes using algorithmic logic and structured pipelines.
+• AI Wiki Quiz Generator — Generates quizzes automatically from large text data using structured pipelines.
 
-• Trading Analytics Dashboard — Backend-focused analytics system for structured financial data visualization and performance insights.
+• Trading Analytics Dashboard — Backend-focused financial analytics system with data visualization.
 
 • Jobby App — Job search platform with authentication, filtering and modern UI architecture.
+
+• Signature & Stamp Detection — Computer vision system that detects signatures and stamps in documents using YOLOv8.
 
 ---
 

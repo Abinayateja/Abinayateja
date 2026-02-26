@@ -57,7 +57,7 @@ Tools: Git, GitHub, API Integration, DevOps Basics
 
 A few things about me:
 
-• B.Tech Computer Science Engineering student (2022–2026) — CGPA 7.8  
+• B.Tech Computer Science Engineering student (2022–2026)
 • Industry Ready Full-Stack Development Certification — NxtWave  
 • I enjoy learning by building real projects rather than only theory  
 • Interested in AI systems and real-world problem solving

@@ -44,16 +44,11 @@ My focus is on solving real-world problems through scalable architecture and tho
 
 ---
 
-## Featured Projects
+## Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [AI Resume Builder](https://github.com/Abinayateja/AI-Resume-Builder) | AI-powered resume builder with ATS optimization, Google OAuth & live preview | React, Node.js, MongoDB, Gemini AI |
-| [AI Mock Interviewer](https://github.com/Abinayateja/AI-Mock-Interviewer) | Real-time voice interview platform with AI scoring & feedback | React, Node.js, AI APIs |
-| [AI Web App Builder](https://github.com/Abinayateja/AI-Web-App-Builder) | Converts text prompts into production-ready web apps instantly | JavaScript, React, AI APIs |
-| [Digital Krishi Officer](https://github.com/Abinayateja) | Voice-first AI chatbot for crop advisory in regional languages | React, Node.js, AI APIs |
-| [EduReach AI](https://github.com/Abinayateja/EduReach-College-ChatBot) | Agentic RAG chatbot for transforming college websites | TypeScript, React, AI APIs |
-| [Cube Logic Master](https://github.com/Abinayateja/Cube-Logic-Master) | AI reasoning system for cube problem visualization | TypeScript, React |
+- AI Resume Builder — ATS-optimized resume generator (React, Node.js)
+- AI Mock Interviewer — Real-time voice interviews with AI feedback
+- AI Web App Builder — Generate apps from prompts
 
 ---
 

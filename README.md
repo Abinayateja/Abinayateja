@@ -2,7 +2,7 @@
 Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
 </h1>
 
-I'm **Abinayateja**, a full-stack developer from Andhra Pradesh, India.  
+I'm **Abinayateja**, a full-stack Trainee from Andhra Pradesh, India.  
 I build clean, functional applications that combine modern UI with structured backend logic.  
 My focus is on solving real-world problems through scalable architecture and thoughtful design.
 

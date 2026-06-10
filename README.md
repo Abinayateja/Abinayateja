@@ -53,9 +53,11 @@ My focus is on solving real-world problems through scalable architecture and tho
 
 ## Achievements
 
+- Finalist — NxtWave × OpenAI State Level Buildathon
+- 2nd Place(10k Cash Prize) — National Level DevOps × Full Stack Hackathon, SRKR Engineering College
 - 2nd Place — National Level MERN Stack Hackathon, SRKR Engineering College  
-- 2nd Place — National Level DevOps × Full Stack Hackathon, SRKR Engineering College  
-- Finalist — NxtWave × OpenAI State Level Buildathon  
+
+
 
 ---
 

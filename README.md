@@ -47,7 +47,6 @@ My focus is on solving real-world problems through scalable architecture and tho
 ## Live Products
 
 - 🔗 **[AI Resume Builder – Live Demo](https://abi-resume-builder.netlify.app/)**
-- 🔗 **[Personalized Learning Path Generator — Live Demo](https://plpg.netlify.app/)**
 
 ---
 

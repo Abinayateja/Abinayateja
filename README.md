@@ -81,26 +81,26 @@ My focus is on solving real-world problems through scalable architecture and tho
 
 ---
 
-🚀 Featured AI Projects
+## 🚀 Featured AI Projects
 
 <p align="center">
   <a href="https://aimockinterviewer533.netlify.app/">
-    <img src="./assets/mock_interviewer_logo.jfif" width="120" alt="AI Mock Interviewer Logo" />
+    <img src="./assets/Mock_Interviewer.png" width="50%" alt="AI Mock Interviewer Dashboard" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://abi-resume-builder.netlify.app/">
-    <img src="./assets/resume_builder_logo.jfif" width="120" alt="AI Resume Builder Logo" />
+    <img src="./assets/Resume_Builder.png" width="50%" alt="AI Resume Builder Dashboard" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://aimockinterviewer533.netlify.app/"><strong>AI Mock Interviewer</strong></a>
+  <a href="https://aimockinterviewer533.netlify.app/"><strong>🎤 AI Mock Interviewer</strong></a>
   &nbsp; | &nbsp;
-  <a href="https://abi-resume-builder.netlify.app/"><strong>AI Resume Builder</strong></a>
+  <a href="https://abi-resume-builder.netlify.app/"><strong>📄 AI Resume Builder</strong></a>
 </p>
 
 <p align="center">
-  AI-powered applications designed to improve interview preparation and resume creation.
+  AI-powered applications built to help users practice interviews and create professional resumes.
 </p>
 
 ---

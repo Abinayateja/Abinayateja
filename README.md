@@ -84,11 +84,11 @@ My focus is on solving real-world problems through scalable architecture and tho
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://aimockinterviewer533.netlify.app/">
+  <a href="https://aimockinterviewer533.netlify.app/" target = "_blank">
     <img src="./assets/Mock_Interviewer.png" width="30%" alt="InterviewIQ" />
   </a>
   &nbsp;
-  <a href="https://abi-resume-builder.netlify.app/">
+  <a href="https://abi-resume-builder.netlify.app/" target = "_blank">
     <img src="./assets/Resume_Builder.png" width="30%" alt="ResumeCraft AI" />
   </a>
   &nbsp;

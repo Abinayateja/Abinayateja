@@ -84,37 +84,19 @@ My focus is on solving real-world problems through scalable architecture and tho
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://aimockinterviewer533.netlify.app/" target="_blank">
-    <img src="./assets/Mock_Interviewer.png" width="48%" alt="AI Mock Interviewer Dashboard" />
+  <a href="https://aimockinterviewer533.netlify.app/">
+    <img src="./assets/Mock_Interviewer.png" width="30%" alt="InterviewIQ" />
   </a>
   &nbsp;
-  <a href="https://abi-resume-builder.netlify.app/" target="_blank">
-    <img src="./assets/Resume_Builder.png" width="48%" alt="AI Resume Builder Dashboard" />
+  <a href="https://abi-resume-builder.netlify.app/">
+    <img src="./assets/Resume_Builder.png" width="30%" alt="ResumeCraft AI" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Abinayateja/SmartCodeTranslator">
+    <img src="https://placehold.co/600x340/111827/60a5fa?text=Smart+Code+Translator" width="30%" alt="Smart Code Translator" />
   </a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🎙️ InterviewIQ</h3>
-      <p>AI-powered mock interviews with personalized feedback to sharpen your interview skills.</p>
-      <a href="https://aimockinterviewer533.netlify.app/"><strong>Live Demo ↗</strong></a>
-      &nbsp; · &nbsp;
-      <a href="https://github.com/Abinayateja/AI-Mock-Interviewer"><strong>Source Code</strong></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>📄 ResumeCraft AI</h3>
-      <p>Create polished resumes and improve your professional profile with AI-powered tools.</p>
-      <a href="https://abi-resume-builder.netlify.app/"><strong>Live Demo ↗</strong></a>
-      &nbsp; · &nbsp;
-      <a href="https://github.com/Abinayateja/AI-Resume-Builder"><strong>Source Code</strong></a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <sub>Built with React, Node.js, and AI integrations.</sub>
-</p>
 
 ## Achievements
 
